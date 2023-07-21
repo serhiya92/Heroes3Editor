@@ -13,7 +13,7 @@ a little easier.
 ## Usage and Features
 
 Download the latest binary release zip file (e.g. *Heroes3Editor-v1.0.zip*) from the
-[Releases section](https://github.com/cysun/Heroes3Editor/releases). Unzip it to anywhere on your hard drive
+[Releases section](https://github.com/cysun/Heroes3Editoreers/releases). Unzip it to anywhere on your hard drive
 then run `Heroes3Editor.exe` (no installation necessary).
 
 Open a savegame file (.CGM for Campaign game save or .GM1 for Single Scenario game save), search for a hero by
