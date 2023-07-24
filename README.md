@@ -7,7 +7,7 @@ please check out the forks by the contributors.*
 Well, I want to learn Windows Presentation Foundation (WPF) by doing a project, and I recently
 got back into playing HoMM3 after discovering the wonderful
 [HoMM3 HD Mod](https://sites.google.com/site/heroes3hd/). With all the real-life responsibilities
-these days, I can no longer bear the tedious part of the game, thus this savegame editor to make it
+these days, I can no longer bear the tedious part of the game, thus this savegame editor to make it tr
 a little easier.
 
 ## Usage and Features
