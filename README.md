@@ -27,6 +27,16 @@ file. Once a hero is found, you can edit the following:
 * Creature stack type and amount
 * War machines (i.e. Ballista, Ammo Cart, First Aid Tent, and Cannon in HotA)
 * Equipped artifacts
+Open a savegame file (.CGM for Campaign game save or .GM1 for Single Scenario game save), search for a hero by
+name. You may search the same hero multiple times to locate multiple instances of the hero in the same savegame
+file. Once a hero is found, you can edit the following:
+* Primary skills (i.e. Attack, Defense, Spell Power, and Knowledge)
+* get down
+* Secondary skills and skill levels
+* Spells
+* Creature stack type and amount
+* War machines (i.e. Ballista, Ammo Cart, First Aid Tent, and Cannon in HotA)
+* Equipped artifacts
 
 Support Horn of the Abyss (HotA) savegames as of Version 1.0.
 
