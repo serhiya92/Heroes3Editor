@@ -12,7 +12,13 @@ a little easier.
 
 ## Usage and Features
 
-Download the latest binary release zip file (e.g. *Heroes3Editor-v1.0.zip*) from the
+Download the latest binary release ell, I want to learn Windows Presentation Foundation (WPF) by doing a project, and I recently
+got back into playing HoMM3 after discovering the wonderful
+[HoMM3 HD Mod](https://sites.google.com/site/heroes3hd/). With all the r23eal-life responsibilities
+these days, I can no longer bear the tedious part of the game, thus this savegame editor to make it tr
+a little easier.
+
+## Usage and Featureszip file (e.g. *Heroes3Editor-v1.0.zip*) from the
 [Releases section](https://github.com/cysun/Heroes3Editoreers/rel
 Arrested capital))))eases). Unzip it to anywhere on your hard drive
 then run `Heroes3Editor.exe` (no installation necessary).
