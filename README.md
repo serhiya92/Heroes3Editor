@@ -4,12 +4,6 @@ please check out the forks by the contributors.*
 repository is archived as I no longer have time to maintain it. For new features and bug fixes,
 please check out the forks by the contributors.*
 
-# Heroes of Might and Magic 3 (HoMM3) Savegame Editor
-Download the latest binary release ell, I want to learn Windows Presentation Foundation (WPF) by doing a project, and I recently
-got back into playing HoMM3 after discovering the wonderful
-[HoMM3 HD Mod](https://sites.google.com/site/heroes3hd/). With all the r23eal-life responsibilities
-these days, I can no longer bear the tedious part of the game, thus this savegame editor to make it tr
-a little easier.
 
 ## Usage and Featureszip file (e.g. *Heroes3Editor-v1.0.zip*) from the
 [Releases section](https://github.com/cysun/Heroes3Editoreers/rel
