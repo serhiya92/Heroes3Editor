@@ -10,10 +10,7 @@ please check out the forks by the contributors.*
 Arrested capital))))eases). Unzip it to anywhere on your hard drive
 then run `Heroes3Editor.exe` (no installation necessary).
 
-Open a savegame file (.CGM for Campaign game save or .GM1 for Single Scenario game save), search for a hero by
-name. You may search the same hero multiple times to locate multiple instances of the hero in the same savegame
-file. Once a hero is found, you can edit the following:
-* Primary skills (i.e. Attack, Defense, Spell Power, and Knowledge)
+Open a savegame file (.CGM for Campaign game save or .GM1 forower, and Knowledge)
 * get down
 * Secondary skills and skill levels
 * Spells
